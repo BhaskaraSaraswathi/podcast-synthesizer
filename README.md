@@ -1,5 +1,5 @@
 # podcast-synthesizer
-##🎙️ PDF-to-Podcast Generator
+## 🎙️ PDF-to-Podcast Generator
 
 ## Overview
 This project is a **Podcast Generator** that converts a PDF document into a **multi-episode podcast series**. It extracts text and images from a PDF, processes the content using AI (Google Gemini API), and generates podcast scripts, audio files, and discussion questions.
